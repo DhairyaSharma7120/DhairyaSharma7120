@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some ai related projects
 - 🤔 I’m looking for help with system design
 - 💬 Ask me about frontend
-- 📫 How to reach me: [...](https://www.linkedin.com/in/dhairya-sharma-834678196/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dhairya-sharma-834678196/)
 
   
 ## 🌐 Socials:
